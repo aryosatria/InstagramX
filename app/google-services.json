@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342879957777",
+    "firebase_url": "https://socialmediax-6284e.firebaseio.com",
+    "project_id": "socialmediax-6284e",
+    "storage_bucket": "socialmediax-6284e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342879957777:android:8ed12a40713cfe73bd12b0",
+        "android_client_info": {
+          "package_name": "com.aryosatria.instagramx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342879957777-vilae5jm0t3sr55obp5gmkrh9j5erf9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryosatria.instagramx",
+            "certificate_hash": "9bec5cc53f9a64d8e77ae3d453c3ed6582ed76f2"
+          }
+        },
+        {
+          "client_id": "342879957777-v2d01adle2v4k0qis6f2hshsu4fmig2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuq7Rqv9eDgH8UT3bLUgAgxg8om7d_aKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342879957777-v2d01adle2v4k0qis6f2hshsu4fmig2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

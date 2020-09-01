@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#6200EE</color>
+<color name="colorPrimaryDark">#000000</color>
+<color name="colorAccent">#3b5999</color>
+<color name="colorWhite">#c2bdbf</color>
+<color name="colorBlue">#5552BF</color>
+<color name="dart_transparent">#81000000</color>
+<color name="blackaja">#100303</color>
+</resources>
